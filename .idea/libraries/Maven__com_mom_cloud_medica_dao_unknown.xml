@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Maven: com.mom.cloud:medica-dao:unknown">
+    <CLASSES>
+      <root url="jar://$MAVEN_REPOSITORY$/com/mom/cloud/medica-dao/unknown/medica-dao-unknown.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$MAVEN_REPOSITORY$/com/mom/cloud/medica-dao/unknown/medica-dao-unknown-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$MAVEN_REPOSITORY$/com/mom/cloud/medica-dao/unknown/medica-dao-unknown-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

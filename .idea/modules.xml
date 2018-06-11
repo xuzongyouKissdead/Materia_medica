@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Materia_medica.iml" filepath="$PROJECT_DIR$/Materia_medica.iml" />
+      <module fileurl="file://$PROJECT_DIR$/medica-api/medica-api.iml" filepath="$PROJECT_DIR$/medica-api/medica-api.iml" />
+      <module fileurl="file://$PROJECT_DIR$/medica-common/medica-common.iml" filepath="$PROJECT_DIR$/medica-common/medica-common.iml" />
+      <module fileurl="file://$PROJECT_DIR$/medica-dao/medica-dao.iml" filepath="$PROJECT_DIR$/medica-dao/medica-dao.iml" />
+      <module fileurl="file://$PROJECT_DIR$/medica-service/medica-service.iml" filepath="$PROJECT_DIR$/medica-service/medica-service.iml" />
+    </modules>
+  </component>
+</project>
